@@ -1,0 +1,499 @@
+state,state_code,job_title,avg_hourly,avg_annually
+Alabama,AL,Data Scientists,47.61,99040
+Alaska,AK,Data Scientists,44.09,91710
+Arizona,AZ,Data Scientists,54.07,112470
+Arkansas,AR,Data Scientists,56.37,117250
+California,CA,Data Scientists,67.54,140490
+Colorado,CO,Data Scientists,57.85,120320
+Connecticut,CT,Data Scientists,57.93,120480
+Delaware,DE,Data Scientists,62.75,130520
+Florida,FL,Data Scientists,51.2,106490
+Georgia,GA,Data Scientists,51.93,108010
+Hawaii,HI,Data Scientists,60.61,126080
+Idaho,ID,Data Scientists,60.67,126190
+Illinois,IL,Data Scientists,55.69,115840
+Indiana,IN,Data Scientists,44.48,92520
+Iowa,IA,Data Scientists,47.38,98550
+Kansas,KS,Data Scientists,51.44,107000
+Kentucky,KY,Data Scientists,46.29,96290
+Louisiana,LA,Data Scientists,35.74,74330
+Maine,ME,Data Scientists,51.62,107370
+Maryland,MD,Data Scientists,60.59,126020
+Massachusetts,MA,Data Scientists,60.15,125100
+Michigan,MI,Data Scientists,46.39,96500
+Minnesota,MN,Data Scientists,57.1,118760
+Mississippi,MS,Data Scientists,34.72,72220
+Missouri,MO,Data Scientists,42.41,88210
+Montana,MT,Data Scientists,48.73,101350
+Nebraska,NE,Data Scientists,45.66,94960
+Nevada,NV,Data Scientists,46.54,96800
+New Hampshire,NH,Data Scientists,46.79,97330
+New Jersey,NJ,Data Scientists,64.49,134140
+New Mexico,NM,Data Scientists,42.65,88720
+New York,NY,Data Scientists,64.82,134830
+North Carolina,NC,Data Scientists,60.55,125950
+North Dakota,ND,Data Scientists,49.24,102410
+Ohio,OH,Data Scientists,46.89,97530
+Oklahoma,OK,Data Scientists,44.72,93020
+Oregon,OR,Data Scientists,59.85,124480
+Pennsylvania,PA,Data Scientists,49.22,102370
+Rhode Island,RI,Data Scientists,61.24,127380
+South Carolina,SC,Data Scientists,48.46,100790
+South Dakota,SD,Data Scientists,47.09,97940
+Tennessee,TN,Data Scientists,46.97,97710
+Texas,TX,Data Scientists,52.4,109000
+Utah,UT,Data Scientists,48.93,101780
+Vermont,VT,Data Scientists,59.82,124430
+Virginia,VA,Data Scientists,66.87,139080
+Washington,WA,Data Scientists,71.5,148730
+West Virginia,WV,Data Scientists,45.35,94330
+Wisconsin,WI,Data Scientists,50.6,105250
+Wyoming,WY,Data Scientists,60.25,125330
+Alabama,AL,Database Administrators,43.03,89510
+Alaska,AK,Database Administrators,43.45,90370
+Arizona,AZ,Database Administrators,50.23,104470
+Arkansas,AR,Database Administrators,43.83,91160
+California,CA,Database Administrators,55.95,116380
+Colorado,CO,Database Administrators,56,116470
+Connecticut,CT,Database Administrators,52.86,109950
+Delaware,DE,Database Administrators,50.65,105350
+Florida,FL,Database Administrators,50.28,104590
+Georgia,GA,Database Administrators,51.38,106880
+Hawaii,HI,Database Administrators,43.41,90300
+Idaho,ID,Database Administrators,40.15,83500
+Illinois,IL,Database Administrators,52.24,108650
+Indiana,IN,Database Administrators,36.6,76130
+Iowa,IA,Database Administrators,45.14,93890
+Kansas,KS,Database Administrators,56.57,117660
+Kentucky,KY,Database Administrators,40.18,83570
+Louisiana,LA,Database Administrators,44.12,91760
+Maine,ME,Database Administrators,46.66,97060
+Maryland,MD,Database Administrators,56.61,117750
+Massachusetts,MA,Database Administrators,56.67,117870
+Michigan,MI,Database Administrators,44.7,92980
+Minnesota,MN,Database Administrators,48.68,101260
+Mississippi,MS,Database Administrators,39.55,82270
+Missouri,MO,Database Administrators,43.59,90660
+Montana,MT,Database Administrators,40.26,83750
+Nebraska,NE,Database Administrators,42.28,87940
+Nevada,NV,Database Administrators,41.38,86080
+New Hampshire,NH,Database Administrators,49.81,103610
+New Jersey,NJ,Database Administrators,58.88,122460
+New Mexico,NM,Database Administrators,46.61,96950
+New York,NY,Database Administrators,50.11,104230
+North Carolina,NC,Database Administrators,50.23,104480
+North Dakota,ND,Database Administrators,39.74,82660
+Ohio,OH,Database Administrators,45.61,94860
+Oklahoma,OK,Database Administrators,41.13,85550
+Oregon,OR,Database Administrators,49.55,103070
+Pennsylvania,PA,Database Administrators,48.15,100160
+Rhode Island,RI,Database Administrators,51.76,107670
+South Carolina,SC,Database Administrators,48.76,101420
+South Dakota,SD,Database Administrators,40.05,83290
+Tennessee,TN,Database Administrators,50.24,104490
+Texas,TX,Database Administrators,48.31,100490
+Utah,UT,Database Administrators,46.97,97700
+Vermont,VT,Database Administrators,47.8,99430
+Virginia,VA,Database Administrators,52.78,109790
+Washington,WA,Database Administrators,56.11,116710
+West Virginia,WV,Database Administrators,35.85,74570
+Wisconsin,WI,Database Administrators,46.08,95840
+Wyoming,WY,Database Administrators,39.72,82620
+Alabama,AL,Database Architects,55,114400
+Alaska,AK,Database Architects,60.41,125650
+Arizona,AZ,Database Architects,58.21,121080
+Arkansas,AR,Database Architects,46.24,96180
+California,CA,Database Architects,78.2,162660
+Colorado,CO,Database Architects,68.22,141890
+Connecticut,CT,Database Architects,67.6,140610
+Delaware,DE,Database Architects,73.83,153570
+Florida,FL,Database Architects,59.04,122790
+Georgia,GA,Database Architects,70.79,147250
+Hawaii,HI,Database Architects,66.2,137690
+Idaho,ID,Database Architects,64,133130
+Illinois,IL,Database Architects,59.73,124240
+Indiana,IN,Database Architects,44.8,93180
+Iowa,IA,Database Architects,62.82,130660
+Kansas,KS,Database Architects,77.8,161820
+Kentucky,KY,Database Architects,47.72,99270
+Louisiana,LA,Database Architects,49.94,103870
+Maine,ME,Database Architects,57.21,118990
+Maryland,MD,Database Architects,72.4,150590
+Massachusetts,MA,Database Architects,73.48,152850
+Michigan,MI,Database Architects,55,114390
+Minnesota,MN,Database Architects,61.72,128380
+Mississippi,MS,Database Architects,38.34,79750
+Missouri,MO,Database Architects,51.23,106560
+Montana,MT,Database Architects,56.36,117220
+Nebraska,NE,Database Architects,62.61,130230
+Nevada,NV,Database Architects,62.74,130500
+New Hampshire,NH,Database Architects,59.21,123150
+New Jersey,NJ,Database Architects,76.41,158930
+New Mexico,NM,Database Architects,57.01,118590
+New York,NY,Database Architects,69.3,144140
+North Carolina,NC,Database Architects,58.87,122460
+North Dakota,ND,Database Architects,51.08,106250
+Ohio,OH,Database Architects,58.47,121620
+Oklahoma,OK,Database Architects,57.66,119940
+Oregon,OR,Database Architects,63.68,132460
+Pennsylvania,PA,Database Architects,58.63,121960
+Rhode Island,RI,Database Architects,56.98,118510
+South Carolina,SC,Database Architects,60.74,126340
+South Dakota,SD,Database Architects,55.87,116210
+Tennessee,TN,Database Architects,57.47,119530
+Texas,TX,Database Architects,67.1,139570
+Utah,UT,Database Architects,69.9,145400
+Vermont,VT,Database Architects,73.34,152540
+Virginia,VA,Database Architects,68.89,143300
+Washington,WA,Database Architects,74.25,154430
+West Virginia,WV,Database Architects,49.78,103550
+Wisconsin,WI,Database Architects,62.59,130180
+Wyoming,WY,Database Architects,29.39,61130
+Alabama,AL,Information Security Analysts,52.61,109420
+Alaska,AK,Information Security Analysts,50.8,105670
+Arizona,AZ,Information Security Analysts,54.08,112480
+Arkansas,AR,Information Security Analysts,44.79,93150
+California,CA,Information Security Analysts,67.66,140730
+Colorado,CO,Information Security Analysts,61.7,128340
+Connecticut,CT,Information Security Analysts,63.67,132430
+Delaware,DE,Information Security Analysts,64,133130
+Florida,FL,Information Security Analysts,54.34,113020
+Georgia,GA,Information Security Analysts,58.3,121260
+Hawaii,HI,Information Security Analysts,54.72,113820
+Idaho,ID,Information Security Analysts,53.34,110950
+Illinois,IL,Information Security Analysts,58.23,121110
+Indiana,IN,Information Security Analysts,49.37,102690
+Iowa,IA,Information Security Analysts,69.21,143960
+Kansas,KS,Information Security Analysts,48.77,101440
+Kentucky,KY,Information Security Analysts,46.55,96810
+Louisiana,LA,Information Security Analysts,57.81,120240
+Maine,ME,Information Security Analysts,46.18,96060
+Maryland,MD,Information Security Analysts,66.44,138180
+Massachusetts,MA,Information Security Analysts,62.26,129500
+Michigan,MI,Information Security Analysts,52.4,108980
+Minnesota,MN,Information Security Analysts,59.26,123260
+Mississippi,MS,Information Security Analysts,45.95,95580
+Missouri,MO,Information Security Analysts,49.19,102320
+Montana,MT,Information Security Analysts,45.73,95110
+Nebraska,NE,Information Security Analysts,50.53,105090
+Nevada,NV,Information Security Analysts,51.13,106350
+New Hampshire,NH,Information Security Analysts,66.85,139050
+New Jersey,NJ,Information Security Analysts,65.36,135940
+New Mexico,NM,Information Security Analysts,61.47,127860
+New York,NY,Information Security Analysts,67.68,140770
+North Carolina,NC,Information Security Analysts,61.89,128720
+North Dakota,ND,Information Security Analysts,47.07,97910
+Ohio,OH,Information Security Analysts,54.62,113610
+Oklahoma,OK,Information Security Analysts,48.91,101740
+Oregon,OR,Information Security Analysts,54.06,112440
+Pennsylvania,PA,Information Security Analysts,54.26,112850
+Rhode Island,RI,Information Security Analysts,56.06,116600
+South Carolina,SC,Information Security Analysts,57.22,119030
+South Dakota,SD,Information Security Analysts,49.15,102240
+Tennessee,TN,Information Security Analysts,52.95,110140
+Texas,TX,Information Security Analysts,57.44,119480
+Utah,UT,Information Security Analysts,52.18,108540
+Vermont,VT,Information Security Analysts,43.56,90600
+Virginia,VA,Information Security Analysts,64.69,134550
+Washington,WA,Information Security Analysts,71.2,148090
+West Virginia,WV,Information Security Analysts,46.33,96360
+Wisconsin,WI,Information Security Analysts,51.53,107180
+Alabama,AL,Network and Computer Systems Administrators,41.66,86650
+Alaska,AK,Network and Computer Systems Administrators,43.67,90830
+Arizona,AZ,Network and Computer Systems Administrators,47.75,99320
+Arkansas,AR,Network and Computer Systems Administrators,37.47,77940
+California,CA,Network and Computer Systems Administrators,55.18,114770
+Colorado,CO,Network and Computer Systems Administrators,50.3,104620
+Connecticut,CT,Network and Computer Systems Administrators,50.87,105810
+Delaware,DE,Network and Computer Systems Administrators,44.09,91710
+Florida,FL,Network and Computer Systems Administrators,45.89,95460
+Georgia,GA,Network and Computer Systems Administrators,47.3,98380
+Hawaii,HI,Network and Computer Systems Administrators,46.3,96300
+Idaho,ID,Network and Computer Systems Administrators,46.27,96230
+Illinois,IL,Network and Computer Systems Administrators,46.72,97170
+Indiana,IN,Network and Computer Systems Administrators,41.33,85960
+Iowa,IA,Network and Computer Systems Administrators,43.16,89770
+Kansas,KS,Network and Computer Systems Administrators,41.97,87300
+Kentucky,KY,Network and Computer Systems Administrators,40.31,83840
+Louisiana,LA,Network and Computer Systems Administrators,40.85,84970
+Maine,ME,Network and Computer Systems Administrators,39.66,82500
+Maryland,MD,Network and Computer Systems Administrators,55.91,116300
+Massachusetts,MA,Network and Computer Systems Administrators,51.07,106220
+Michigan,MI,Network and Computer Systems Administrators,45.6,94840
+Minnesota,MN,Network and Computer Systems Administrators,48.45,100770
+Mississippi,MS,Network and Computer Systems Administrators,38.96,81040
+Missouri,MO,Network and Computer Systems Administrators,42.83,89080
+Montana,MT,Network and Computer Systems Administrators,38.75,80600
+Nebraska,NE,Network and Computer Systems Administrators,43.27,90010
+Nevada,NV,Network and Computer Systems Administrators,45.24,94100
+New Hampshire,NH,Network and Computer Systems Administrators,47.67,99160
+New Jersey,NJ,Network and Computer Systems Administrators,53.46,111190
+New Mexico,NM,Network and Computer Systems Administrators,39.04,81210
+New York,NY,Network and Computer Systems Administrators,52.57,109340
+North Carolina,NC,Network and Computer Systems Administrators,48.11,100070
+North Dakota,ND,Network and Computer Systems Administrators,39.68,82530
+Ohio,OH,Network and Computer Systems Administrators,49.18,102290
+Oklahoma,OK,Network and Computer Systems Administrators,44.21,91960
+Oregon,OR,Network and Computer Systems Administrators,49.66,103290
+Pennsylvania,PA,Network and Computer Systems Administrators,47.94,99710
+Rhode Island,RI,Network and Computer Systems Administrators,53.95,112220
+South Carolina,SC,Network and Computer Systems Administrators,44.29,92110
+South Dakota,SD,Network and Computer Systems Administrators,34.61,71980
+Tennessee,TN,Network and Computer Systems Administrators,42.95,89340
+Texas,TX,Network and Computer Systems Administrators,46.82,97380
+Utah,UT,Network and Computer Systems Administrators,48.69,101270
+Vermont,VT,Network and Computer Systems Administrators,42.66,88730
+Virgin Islands,VI,Network and Computer Systems Administrators,34.97,72740
+Virginia,VA,Network and Computer Systems Administrators,52.16,108490
+Washington,WA,Network and Computer Systems Administrators,53.05,110340
+West Virginia,WV,Network and Computer Systems Administrators,37.88,78790
+Wisconsin,WI,Network and Computer Systems Administrators,44.07,91660
+Wyoming,WY,Network and Computer Systems Administrators,38.19,79430
+Alabama,AL,Operations Research Analysts,54.04,112400
+Alaska,AK,Operations Research Analysts,46.83,97410
+Arizona,AZ,Operations Research Analysts,38.32,79700
+Arkansas,AR,Operations Research Analysts,36.07,75020
+California,CA,Operations Research Analysts,44.3,92150
+Colorado,CO,Operations Research Analysts,48.62,101130
+Connecticut,CT,Operations Research Analysts,45.91,95490
+Delaware,DE,Operations Research Analysts,51.81,107770
+Florida,FL,Operations Research Analysts,41.47,86260
+Georgia,GA,Operations Research Analysts,39.81,82810
+Hawaii,HI,Operations Research Analysts,48.81,101520
+Idaho,ID,Operations Research Analysts,40.69,84620
+Illinois,IL,Operations Research Analysts,51.11,106300
+Indiana,IN,Operations Research Analysts,42.37,88120
+Iowa,IA,Operations Research Analysts,39.73,82640
+Kansas,KS,Operations Research Analysts,45.68,95020
+Kentucky,KY,Operations Research Analysts,39.41,81970
+Louisiana,LA,Operations Research Analysts,35.53,73900
+Maine,ME,Operations Research Analysts,47.02,97810
+Maryland,MD,Operations Research Analysts,54.06,112450
+Massachusetts,MA,Operations Research Analysts,46.6,96930
+Michigan,MI,Operations Research Analysts,48.19,100240
+Minnesota,MN,Operations Research Analysts,49.4,102740
+Mississippi,MS,Operations Research Analysts,40.66,84570
+Missouri,MO,Operations Research Analysts,30.59,63640
+Montana,MT,Operations Research Analysts,37.49,77970
+Nebraska,NE,Operations Research Analysts,43.53,90540
+Nevada,NV,Operations Research Analysts,41.53,86390
+New Hampshire,NH,Operations Research Analysts,43.99,91500
+New Jersey,NJ,Operations Research Analysts,52.4,108990
+New Mexico,NM,Operations Research Analysts,40.72,84690
+New York,NY,Operations Research Analysts,53.78,111860
+North Carolina,NC,Operations Research Analysts,47.61,99020
+North Dakota,ND,Operations Research Analysts,42.29,87970
+Ohio,OH,Operations Research Analysts,44.83,93250
+Oklahoma,OK,Operations Research Analysts,30.66,63760
+Oregon,OR,Operations Research Analysts,47.64,99080
+Pennsylvania,PA,Operations Research Analysts,39.48,82110
+Rhode Island,RI,Operations Research Analysts,37.38,77740
+South Carolina,SC,Operations Research Analysts,41.57,86460
+Tennessee,TN,Operations Research Analysts,38.13,79310
+Texas,TX,Operations Research Analysts,46.3,96300
+Utah,UT,Operations Research Analysts,39.24,81620
+Vermont,VT,Operations Research Analysts,42.64,88690
+Virginia,VA,Operations Research Analysts,58.23,121120
+Washington,WA,Operations Research Analysts,49.44,102840
+West Virginia,WV,Operations Research Analysts,34.03,70770
+Wisconsin,WI,Operations Research Analysts,39.3,81750
+Alabama,AL,Budget Analysts,45.86,95390
+Alaska,AK,Budget Analysts,44.55,92660
+Arizona,AZ,Budget Analysts,39,81120
+Arkansas,AR,Budget Analysts,29.03,60370
+California,CA,Budget Analysts,49.52,102990
+Colorado,CO,Budget Analysts,44.36,92260
+Connecticut,CT,Budget Analysts,43.72,90930
+Delaware,DE,Budget Analysts,41.05,85380
+Florida,FL,Budget Analysts,40.84,84950
+Georgia,GA,Budget Analysts,42.94,89310
+Hawaii,HI,Budget Analysts,40.64,84540
+Idaho,ID,Budget Analysts,36.43,75770
+Illinois,IL,Budget Analysts,43.27,90000
+Indiana,IN,Budget Analysts,39.4,81950
+Iowa,IA,Budget Analysts,39.53,82220
+Kansas,KS,Budget Analysts,39.03,81190
+Kentucky,KY,Budget Analysts,35.2,73220
+Louisiana,LA,Budget Analysts,37.17,77310
+Maine,ME,Budget Analysts,36.75,76440
+Maryland,MD,Budget Analysts,51.02,106130
+Massachusetts,MA,Budget Analysts,44.69,92950
+Michigan,MI,Budget Analysts,41.4,86120
+Minnesota,MN,Budget Analysts,44.7,92970
+Mississippi,MS,Budget Analysts,36.33,75560
+Missouri,MO,Budget Analysts,37.97,78980
+Montana,MT,Budget Analysts,33.83,70360
+Nebraska,NE,Budget Analysts,39.15,81440
+Nevada,NV,Budget Analysts,38.06,79160
+New Hampshire,NH,Budget Analysts,47.32,98420
+New Jersey,NJ,Budget Analysts,43.02,89470
+New Mexico,NM,Budget Analysts,44.98,93550
+New York,NY,Budget Analysts,47.97,99780
+North Carolina,NC,Budget Analysts,39.04,81210
+North Dakota,ND,Budget Analysts,37.58,78160
+Ohio,OH,Budget Analysts,42.65,88720
+Oklahoma,OK,Budget Analysts,35.68,74210
+Oregon,OR,Budget Analysts,43.46,90390
+Pennsylvania,PA,Budget Analysts,40.57,84380
+Rhode Island,RI,Budget Analysts,43.75,90990
+South Carolina,SC,Budget Analysts,37.43,77860
+South Dakota,SD,Budget Analysts,36.52,75970
+Tennessee,TN,Budget Analysts,39.82,82830
+Texas,TX,Budget Analysts,39.31,81760
+Utah,UT,Budget Analysts,42.37,88120
+Vermont,VT,Budget Analysts,38.61,80300
+Virgin Islands,VI,Budget Analysts,30.02,62450
+Virginia,VA,Budget Analysts,50.02,104050
+Washington,WA,Budget Analysts,44.11,91740
+West Virginia,WV,Budget Analysts,38.09,79220
+Wisconsin,WI,Budget Analysts,38.46,79990
+Wyoming,WY,Budget Analysts,37.52,78040
+Alabama,AL,Computer Systems Analysts,52.18,108520
+Alaska,AK,Computer Systems Analysts,42.41,88210
+Arizona,AZ,Computer Systems Analysts,48.32,100510
+Arkansas,AR,Computer Systems Analysts,40.54,84330
+California,CA,Computer Systems Analysts,62.22,129420
+Colorado,CO,Computer Systems Analysts,56.89,118340
+Connecticut,CT,Computer Systems Analysts,51.77,107670
+Delaware,DE,Computer Systems Analysts,63.28,131620
+Florida,FL,Computer Systems Analysts,50.99,106050
+Georgia,GA,Computer Systems Analysts,50.88,105820
+Hawaii,HI,Computer Systems Analysts,44.82,93230
+Idaho,ID,Computer Systems Analysts,43.92,91360
+Illinois,IL,Computer Systems Analysts,49.02,101970
+Indiana,IN,Computer Systems Analysts,46.45,96610
+Iowa,IA,Computer Systems Analysts,45.86,95380
+Kansas,KS,Computer Systems Analysts,48.27,100410
+Kentucky,KY,Computer Systems Analysts,39.92,83040
+Louisiana,LA,Computer Systems Analysts,41.12,85530
+Maine,ME,Computer Systems Analysts,42.97,89380
+Maryland,MD,Computer Systems Analysts,56.95,118460
+Massachusetts,MA,Computer Systems Analysts,60.04,124870
+Michigan,MI,Computer Systems Analysts,48.8,101510
+Minnesota,MN,Computer Systems Analysts,52.38,108940
+Mississippi,MS,Computer Systems Analysts,42.19,87750
+Missouri,MO,Computer Systems Analysts,46.95,97650
+Montana,MT,Computer Systems Analysts,39.55,82260
+Nebraska,NE,Computer Systems Analysts,43.43,90330
+Nevada,NV,Computer Systems Analysts,51.63,107380
+New Hampshire,NH,Computer Systems Analysts,53.59,111470
+New Jersey,NJ,Computer Systems Analysts,60.69,126240
+New Mexico,NM,Computer Systems Analysts,46.1,95890
+New York,NY,Computer Systems Analysts,56.04,116560
+North Carolina,NC,Computer Systems Analysts,53.64,111580
+North Dakota,ND,Computer Systems Analysts,48.4,100680
+Ohio,OH,Computer Systems Analysts,47.72,99260
+Oklahoma,OK,Computer Systems Analysts,49.74,103460
+Oregon,OR,Computer Systems Analysts,56.93,118410
+Pennsylvania,PA,Computer Systems Analysts,44.73,93040
+Rhode Island,RI,Computer Systems Analysts,54.56,113490
+South Carolina,SC,Computer Systems Analysts,49.17,102270
+South Dakota,SD,Computer Systems Analysts,47.77,99350
+Tennessee,TN,Computer Systems Analysts,47.42,98630
+Texas,TX,Computer Systems Analysts,55.41,115240
+Utah,UT,Computer Systems Analysts,46.64,97020
+Virgin Islands,VI,Computer Systems Analysts,29.96,62320
+Virginia,VA,Computer Systems Analysts,55.68,115820
+Washington,WA,Computer Systems Analysts,63.83,132760
+West Virginia,WV,Computer Systems Analysts,46.84,97420
+Wisconsin,WI,Computer Systems Analysts,46.26,96220
+Wyoming,WY,Computer Systems Analysts,53.53,111340
+Alabama,AL,Market Research Analysts and Marketing Specialists,32.9,68420
+Alaska,AK,Market Research Analysts and Marketing Specialists,33.28,69210
+Arizona,AZ,Market Research Analysts and Marketing Specialists,36.88,76700
+Arkansas,AR,Market Research Analysts and Marketing Specialists,34.6,71970
+California,CA,Market Research Analysts and Marketing Specialists,48.1,100040
+Colorado,CO,Market Research Analysts and Marketing Specialists,41.16,85600
+Connecticut,CT,Market Research Analysts and Marketing Specialists,38.41,79890
+Delaware,DE,Market Research Analysts and Marketing Specialists,45.57,94790
+Florida,FL,Market Research Analysts and Marketing Specialists,38.86,80830
+Georgia,GA,Market Research Analysts and Marketing Specialists,38.04,79130
+Hawaii,HI,Market Research Analysts and Marketing Specialists,29.64,61640
+Idaho,ID,Market Research Analysts and Marketing Specialists,29.68,61730
+Illinois,IL,Market Research Analysts and Marketing Specialists,37.98,79000
+Indiana,IN,Market Research Analysts and Marketing Specialists,33.83,70360
+Iowa,IA,Market Research Analysts and Marketing Specialists,33.76,70230
+Kansas,KS,Market Research Analysts and Marketing Specialists,33.14,68920
+Kentucky,KY,Market Research Analysts and Marketing Specialists,31.06,64600
+Louisiana,LA,Market Research Analysts and Marketing Specialists,29.88,62140
+Maine,ME,Market Research Analysts and Marketing Specialists,35.23,73280
+Maryland,MD,Market Research Analysts and Marketing Specialists,37.13,77220
+Massachusetts,MA,Market Research Analysts and Marketing Specialists,44.36,92260
+Michigan,MI,Market Research Analysts and Marketing Specialists,35.39,73610
+Minnesota,MN,Market Research Analysts and Marketing Specialists,41.06,85410
+Mississippi,MS,Market Research Analysts and Marketing Specialists,27.77,57760
+Missouri,MO,Market Research Analysts and Marketing Specialists,35.19,73200
+Montana,MT,Market Research Analysts and Marketing Specialists,35.82,74500
+Nebraska,NE,Market Research Analysts and Marketing Specialists,31.24,64980
+Nevada,NV,Market Research Analysts and Marketing Specialists,33.16,68970
+New Hampshire,NH,Market Research Analysts and Marketing Specialists,35.38,73590
+New Jersey,NJ,Market Research Analysts and Marketing Specialists,44.76,93100
+New Mexico,NM,Market Research Analysts and Marketing Specialists,29.15,60630
+New York,NY,Market Research Analysts and Marketing Specialists,46.25,96200
+North Carolina,NC,Market Research Analysts and Marketing Specialists,39.88,82950
+North Dakota,ND,Market Research Analysts and Marketing Specialists,30.23,62870
+Ohio,OH,Market Research Analysts and Marketing Specialists,35.58,74000
+Oklahoma,OK,Market Research Analysts and Marketing Specialists,32.53,67660
+Oregon,OR,Market Research Analysts and Marketing Specialists,40.47,84170
+Pennsylvania,PA,Market Research Analysts and Marketing Specialists,32.8,68220
+Rhode Island,RI,Market Research Analysts and Marketing Specialists,37.39,77760
+South Carolina,SC,Market Research Analysts and Marketing Specialists,32.4,67400
+South Dakota,SD,Market Research Analysts and Marketing Specialists,33.17,68990
+Tennessee,TN,Market Research Analysts and Marketing Specialists,34.57,71910
+Texas,TX,Market Research Analysts and Marketing Specialists,36.23,75350
+Utah,UT,Market Research Analysts and Marketing Specialists,31.46,65440
+Vermont,VT,Market Research Analysts and Marketing Specialists,33.98,70680
+Virgin Islands,VI,Market Research Analysts and Marketing Specialists,22.13,46020
+Virginia,VA,Market Research Analysts and Marketing Specialists,41.24,85780
+Washington,WA,Market Research Analysts and Marketing Specialists,51.16,106420
+West Virginia,WV,Market Research Analysts and Marketing Specialists,27.43,57040
+Wisconsin,WI,Market Research Analysts and Marketing Specialists,32.47,67550
+Wyoming,WY,Market Research Analysts and Marketing Specialists,28.24,58740
+Alabama,AL,Software Quality Assurance Analysts and Testers,48.81,101520
+Alaska,AK,Software Quality Assurance Analysts and Testers,51.73,107600
+Arizona,AZ,Software Quality Assurance Analysts and Testers,47.23,98250
+California,CA,Software Quality Assurance Analysts and Testers,63.82,132750
+Colorado,CO,Software Quality Assurance Analysts and Testers,54.91,114210
+Connecticut,CT,Software Quality Assurance Analysts and Testers,46.45,96610
+Delaware,DE,Software Quality Assurance Analysts and Testers,54.43,113210
+Florida,FL,Software Quality Assurance Analysts and Testers,46.75,97240
+Georgia,GA,Software Quality Assurance Analysts and Testers,47.61,99030
+Hawaii,HI,Software Quality Assurance Analysts and Testers,54.27,112880
+Idaho,ID,Software Quality Assurance Analysts and Testers,57.48,119560
+Illinois,IL,Software Quality Assurance Analysts and Testers,45.6,94850
+Indiana,IN,Software Quality Assurance Analysts and Testers,42.61,88630
+Iowa,IA,Software Quality Assurance Analysts and Testers,41.8,86940
+Kansas,KS,Software Quality Assurance Analysts and Testers,42.07,87510
+Kentucky,KY,Software Quality Assurance Analysts and Testers,36.12,75120
+Louisiana,LA,Software Quality Assurance Analysts and Testers,36.09,75070
+Maine,ME,Software Quality Assurance Analysts and Testers,41.87,87090
+Maryland,MD,Software Quality Assurance Analysts and Testers,57.49,119570
+Massachusetts,MA,Software Quality Assurance Analysts and Testers,57.08,118720
+Michigan,MI,Software Quality Assurance Analysts and Testers,40.94,85160
+Minnesota,MN,Software Quality Assurance Analysts and Testers,49.01,101950
+Mississippi,MS,Software Quality Assurance Analysts and Testers,41.17,85620
+Missouri,MO,Software Quality Assurance Analysts and Testers,36.97,76900
+Montana,MT,Software Quality Assurance Analysts and Testers,37.4,77780
+Nebraska,NE,Software Quality Assurance Analysts and Testers,43.97,91450
+Nevada,NV,Software Quality Assurance Analysts and Testers,38.82,80750
+New Hampshire,NH,Software Quality Assurance Analysts and Testers,49.22,102370
+New Jersey,NJ,Software Quality Assurance Analysts and Testers,55.37,115180
+New Mexico,NM,Software Quality Assurance Analysts and Testers,59.17,123060
+New York,NY,Software Quality Assurance Analysts and Testers,59.58,123920
+North Carolina,NC,Software Quality Assurance Analysts and Testers,48.12,100100
+North Dakota,ND,Software Quality Assurance Analysts and Testers,39.15,81430
+Ohio,OH,Software Quality Assurance Analysts and Testers,42.74,88900
+Oklahoma,OK,Software Quality Assurance Analysts and Testers,34.78,72340
+Oregon,OR,Software Quality Assurance Analysts and Testers,47.04,97840
+Pennsylvania,PA,Software Quality Assurance Analysts and Testers,45.06,93720
+Rhode Island,RI,Software Quality Assurance Analysts and Testers,48.95,101820
+South Carolina,SC,Software Quality Assurance Analysts and Testers,42.46,88310
+South Dakota,SD,Software Quality Assurance Analysts and Testers,32.82,68260
+Tennessee,TN,Software Quality Assurance Analysts and Testers,40.53,84300
+Texas,TX,Software Quality Assurance Analysts and Testers,49.95,103890
+Utah,UT,Software Quality Assurance Analysts and Testers,40.64,84520
+Vermont,VT,Software Quality Assurance Analysts and Testers,34.25,71230
+Virginia,VA,Software Quality Assurance Analysts and Testers,54.97,114330
+Washington,WA,Software Quality Assurance Analysts and Testers,59.27,123280
+West Virginia,WV,Software Quality Assurance Analysts and Testers,30.55,63530
+Wisconsin,WI,Software Quality Assurance Analysts and Testers,42.44,88280
